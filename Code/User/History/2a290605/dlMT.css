@@ -1,0 +1,7 @@
+@-moz-document url-prefix(about:blank), url-prefix(about:newtab) {
+ body{
+  background: url("librewolfbackground.png") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+}

@@ -1,0 +1,11 @@
+2024-12-15 15:38:19.264 [info] update#setState idle
+2024-12-15 15:38:19.273 [error] [storage main] initialize(): Unable to init storage due to Error: EACCES: permission denied, mkdir '/home/human/.config/Code/User/workspaceStorage/63d848e1b81a6b477ce855fa53515219'
+2024-12-15 15:38:49.245 [info] update#setState checking for updates
+2024-12-15 15:38:49.351 [info] update#setState idle
+2024-12-15 16:38:49.271 [info] update#setState checking for updates
+2024-12-15 16:38:49.703 [info] update#setState idle
+2024-12-15 17:38:49.287 [info] update#setState checking for updates
+2024-12-15 17:38:49.499 [info] update#setState idle
+2024-12-15 18:38:49.296 [info] update#setState checking for updates
+2024-12-15 18:38:49.722 [info] update#setState idle
+2024-12-15 19:00:23.858 [info] Extension host with pid 11397 exited with code: 0, signal: unknown.

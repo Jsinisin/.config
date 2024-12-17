@@ -1,0 +1,5 @@
+2024-12-15 19:00:26.670 [info] Extension host with pid 14635 started
+2024-12-15 19:00:26.670 [info] Skipping acquiring lock for /home/human/.config/Code/User/workspaceStorage/63d848e1b81a6b477ce855fa53515219.
+2024-12-15 19:00:26.718 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-15 19:00:26.753 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-15 19:00:26.753 [info] Extension host with pid 14635 exiting with code 0

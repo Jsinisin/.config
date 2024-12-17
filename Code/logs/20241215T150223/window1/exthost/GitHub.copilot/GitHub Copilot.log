@@ -1,0 +1,40 @@
+2024-12-15 15:02:27.757 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Jne.removeExpiredCertificates (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:77:32)
+    at Jne.getAllRootCAs (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:68:38)
+    at Mue.createSecureContext (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2024-12-15 15:02:27.757 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Jne.removeExpiredCertificates (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:77:32)
+    at Jne.getAllRootCAs (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificateReaders.ts:68:38)
+    at Mue.createSecureContext (/home/human/.vscode/extensions/github.copilot-1.252.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2024-12-15 15:02:27.757 [info] [certificates] Removed 2 expired certificates
+2024-12-15 15:02:28.258 [info] [auth] Invalid copilot token: missing token: 403 
+2024-12-15 15:02:28.260 [error] [auth] auth: CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at authShowWarnings (/home/human/.vscode/extensions/github.copilot-1.252.0/extension/src/auth.ts:114:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Qae.getCopilotToken (/home/human/.vscode/extensions/github.copilot-1.252.0/extension/src/auth.ts:144:33) {
+  cause: undefined
+}

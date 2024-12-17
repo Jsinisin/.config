@@ -1,0 +1,8 @@
+@-moz-document url-prefix(about:blank), url-prefix(about:newtab) {
+  html, body, #newtab-customize-overlay {
+      background-image: url("librewolfbackground.png") !important;
+      background-repeat: no-repeat !important;
+      background-position: center !important;
+     background-attachment: fixed !important;
+}
+}

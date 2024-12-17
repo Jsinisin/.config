@@ -1,0 +1,5 @@
+2024-12-15 19:00:29.094 [info] Extension host with pid 14842 started
+2024-12-15 19:00:29.094 [info] Skipping acquiring lock for /home/human/.config/Code/User/workspaceStorage/63d848e1b81a6b477ce855fa53515219.
+2024-12-15 19:00:29.236 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-15 19:00:29.239 [error] [ExtHostStorage] Canceled
+2024-12-15 19:00:29.239 [info] Extension host with pid 14842 exiting with code 0

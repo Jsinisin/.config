@@ -1,0 +1,96 @@
+2024-12-15 13:55:07.768 [info] Using the Electron fetcher.
+2024-12-15 13:55:07.769 [info] Initializing Git extension service.
+2024-12-15 13:55:07.769 [info] Successfully activated the vscode.git extension.
+2024-12-15 13:55:07.769 [info] Enablement state of the vscode.git extension: true.
+2024-12-15 13:55:07.769 [info] Successfully registered Git commit message provider.
+2024-12-15 13:55:09.689 [info] Logged in as Jsinisin
+2024-12-15 13:55:10.134 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 13:55:10.154 [info] Logged in as Jsinisin
+2024-12-15 13:55:10.287 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 13:55:10.289 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at IZ.waitForChatEnabled (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:444:13713)
+    at IZ.run (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:444:13432)
+    at w0.askToUpgradeAuthPermissions (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:444:12870): Failed to get copilot token
+2024-12-15 13:55:10.289 [error] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as Jsinisin."
+2024-12-15 13:55:10.289 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 13:55:10.289 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:640)
+    at xC._processQueue (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:487:1101)
+2024-12-15 13:55:10.289 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 13:55:10.289 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at r (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2288)
+    at Y0._registerEmbeddings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2787)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at tB.waitForActivationBlockers (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:13668)
+    at /home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:2255:4201
+    at Frr (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:2255:4014)
+    at K0.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+    at K0.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+    at K0.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2024-12-15 13:55:10.289 [info] activationBlocker from 'languageModelAccess' took for 571ms
+2024-12-15 13:55:11.161 [warning] [repo:jsinisin/bin] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 1ms. Query: text
+2024-12-15 13:55:11.370 [warning] [repo:jsinisin/bin] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 2ms. Query: text
+2024-12-15 13:55:11.579 [warning] [repo:jsinisin/bin] Error fetching code search. Error: unauthorized: not licensed to use Copilot
+. Retrying in 3ms. Query: text
+2024-12-15 13:55:11.680 [warning] [repo:jsinisin/bin] Max Retry Error thrown while querying 'text'
+2024-12-15 14:10:10.299 [info] Logged in as Jsinisin
+2024-12-15 14:10:10.648 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 14:10:10.648 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 14:10:10.648 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:640)
+    at xC._processQueue (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:487:1101)
+2024-12-15 14:25:10.658 [info] Logged in as Jsinisin
+2024-12-15 14:25:11.096 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 14:25:11.096 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 14:25:11.096 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:640)
+    at xC._processQueue (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:487:1101)
+2024-12-15 14:40:11.106 [info] Logged in as Jsinisin
+2024-12-15 14:40:11.476 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 14:40:11.476 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 14:40:11.476 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:640)
+    at xC._processQueue (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:487:1101)
+2024-12-15 14:55:11.488 [info] Logged in as Jsinisin
+2024-12-15 14:55:11.828 [warning] Invalid copilot token: missing token: 403 
+2024-12-15 14:55:11.829 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-15 14:55:11.829 [error] Error: No access to GitHub Copilot found. You are currently logged in as Jsinisin.
+    at B0._authShowWarnings (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:3407)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at B0.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:488:640)
+    at xC._processQueue (/home/human/.vscode/extensions/github.copilot-chat-0.23.1/dist/extension.js:487:1101)

@@ -1,0 +1,4 @@
+sudo chown root ~/.config//Code/User/workspaceStorage
+
+xdg-settings set default-web-browser librewolf.desktop
+

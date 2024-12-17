@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Hack', 'monospace', monospace",
+    "workbench.settings.applyToAllProfiles": [
+
+    ],
+    "window.restoreWindows": "none",
+    "window.confirmSaveUntitledWorkspace": false
+}

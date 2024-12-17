@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.settings.applyToAllProfiles": [
+        
+    ],
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean High Contrast]": {
+            "editorGroupHeader.tabsBackground": "#090b10",
+            "tab.activeBackground": "#090b10",
+            "tab.activeBorder": "#80cbc4",
+        },
+        
+    },
+    "editor.semanticTokenColorCustomizations": {
+
+    }
+}
