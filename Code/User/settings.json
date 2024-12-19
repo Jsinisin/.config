@@ -15,5 +15,7 @@
     "editor.semanticTokenColorCustomizations": {
 
     },
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'Hack', 'monospace', monospace",
+    "editor.wordWrap": "on"
 }

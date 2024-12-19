@@ -3,7 +3,6 @@
 [keybindings]
 [profiles]
   [[default]]
-    background_darkness = 0.0
     background_type = image
     background_image = /home/human/Pictures/Wallpapers/background.png
     cursor_shape = underline

@@ -235,7 +235,7 @@ window#waybar.empty #window {
 #pulseaudio {
     /*background-color: rgba(12, 37, 44, 0.85);*/
     font-size: 12px;
-    color: #808080;
+    color: #FFFFFF;
     border-radius: 18px;
     /*border: 2px solid #000000;*/
     padding: 7px 9px 4px 9px;
@@ -252,7 +252,7 @@ window#waybar.empty #window {
  #backlight {
     /*background-color: rgba(12, 37, 44, 0.85);*/
     font-size: 12px;
-    color: #808080;
+    color: #FFFFFF;
     border-radius: 18px;
     /*border: 2px solid #000000;*/
     padding: 6px 11px 3px 11px;
@@ -266,7 +266,7 @@ window#waybar.empty #window {
 #network {
     /*background-color: rgba(12, 37, 44, 0.85);*/
     font-size: 12px;
-    color: #808080;
+    color: #FFFFFF;
     border-radius: 18px;
     /*border: 2px solid #000000;*/
     padding: 6px 11px 3px 11px;
@@ -307,7 +307,7 @@ window#waybar.empty #window {
 #battery {
     /*background-color: rgba(12, 37, 44, 0.85);*/
     font-size: 12px;
-    color: #808080;
+    color: #FFFFFF;
     border-radius: 18px;
     /*border: 2px solid #000000;*/
     padding: 6px 10px 3px 11px;

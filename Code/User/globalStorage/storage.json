@@ -178,6 +178,13 @@
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
                                 }
@@ -798,7 +805,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -1764,8 +1772,8 @@
             "backupPath": "/home/human/.config/Code/Backups/c2e3f2901bce73f9661164bde05a5c34",
             "uiState": {
                 "mode": 1,
-                "x": 9,
-                "y": 9,
+                "x": 739,
+                "y": 463,
                 "width": 2542,
                 "height": 1582
             }

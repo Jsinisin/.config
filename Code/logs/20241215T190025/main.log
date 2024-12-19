@@ -1,4 +1,0 @@
-2024-12-15 19:00:25.618 [info] update#setState idle
-2024-12-15 19:00:25.626 [error] [storage main] initialize(): Unable to init storage due to Error: EACCES: permission denied, mkdir '/home/human/.config/Code/User/workspaceStorage/63d848e1b81a6b477ce855fa53515219'
-2024-12-15 19:00:26.754 [info] Extension host with pid 14635 exited with code: 0, signal: unknown.
-2024-12-15 19:00:26.776 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14616]: crashed with code 15 and reason 'killed'

@@ -1,3 +1,21 @@
-2024/12/15-12:03:05.206 8e5 Reusing MANIFEST /home/human/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
-2024/12/15-12:03:05.206 8e5 Recovering log #7
-2024/12/15-12:03:05.208 8e5 Reusing old log /home/human/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000007.log 
+2024/12/18-19:57:03.574 104c Reusing MANIFEST /home/human/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2024/12/18-19:57:03.575 104c Recovering log #57
+2024/12/18-19:57:03.579 104c Reusing old log /home/human/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000057.log 
+2024/12/18-20:02:04.632 104d Compacting 1@1 + 1@2 files
+2024/12/18-20:02:04.649 104d Generated table #60@1: 45 keys, 1821247 bytes
+2024/12/18-20:02:04.649 104d Compacted 1@1 + 1@2 files => 1821247 bytes
+2024/12/18-20:02:04.650 104d compacted to: files[ 2 0 1 0 0 0 0 ]
+2024/12/18-20:02:04.650 104d Delete type=2 #5
+2024/12/18-20:02:04.650 104d Delete type=2 #54
+2024/12/18-20:07:06.602 104c Compacting 2@0 + 0@1 files
+2024/12/18-20:07:06.615 104c Generated table #61@0: 2 keys, 574151 bytes
+2024/12/18-20:07:06.615 104c Compacted 2@0 + 0@1 files => 574151 bytes
+2024/12/18-20:07:06.617 104c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/18-20:07:06.617 104c Delete type=2 #56
+2024/12/18-20:07:06.617 104c Delete type=2 #58
+2024/12/18-20:12:03.747 104c Compacting 1@1 + 1@2 files
+2024/12/18-20:12:03.755 104c Generated table #62@1: 45 keys, 1821247 bytes
+2024/12/18-20:12:03.755 104c Compacted 1@1 + 1@2 files => 1821247 bytes
+2024/12/18-20:12:03.757 104c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/18-20:12:03.757 104c Delete type=2 #60
+2024/12/18-20:12:03.757 104c Delete type=2 #61
